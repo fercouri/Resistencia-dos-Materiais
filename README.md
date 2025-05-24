@@ -1,4 +1,5 @@
 # Resistencia-dos-Materiais
+Desenvolvimento de algoritmos para atividades da matéria de Resistência dos Materiais, UFJF 2024.3.
 
 ## Questões 
 
