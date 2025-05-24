@@ -41,10 +41,10 @@ torção do eixo inteiro.
 
 1. Desenvolva uma rotina computacional para calcular a inclinação e deflexão de vigas isostáticas.
 
-• Considere os seguintes modelos estruturais: viga simplesmente apoiada, engastada e livre
+  • Considere os seguintes modelos estruturais: viga simplesmente apoiada, engastada e livre
 e biapoiada com balanço.
-• Considere, no mínimo, os seguintes tipos de carregamento: concentrado, uniformemente
+  • Considere, no mínimo, os seguintes tipos de carregamento: concentrado, uniformemente
 distribuído, linear e carga momento, inclusive a combinação simultânea de todos eles.
-• Considere diferentes tipos de seção transversal.
-• Arbitrar o material.
-• Plotar as curvas  (x) e v(x).
+  • Considere diferentes tipos de seção transversal.
+  • Arbitrar o material.
+  • Plotar as curvas  (x) e v(x).
